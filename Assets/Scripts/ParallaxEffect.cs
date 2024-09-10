@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class ParallaxEffect : MonoBehaviour
 {
+    public int deneme;
     public Camera cam;
     public Transform followTarget;
 
